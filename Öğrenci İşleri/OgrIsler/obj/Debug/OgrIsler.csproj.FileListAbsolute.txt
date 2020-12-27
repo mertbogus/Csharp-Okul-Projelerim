@@ -1,0 +1,124 @@
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\bin\Debug\OgrIsler.exe.config
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\bin\Debug\OgrIsler.exe
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\bin\Debug\OgrIsler.pdb
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csprojAssemblyReference.cache
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.KullaniciGiris.resources
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.Properties.Resources.resources
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csproj.GenerateResource.cache
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csproj.CoreCompileInputs.cache
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.exe
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.pdb
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.AnaEkran.resources
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciListesi.resources
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciEkle.resources
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciDuzenle.resources
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csproj.CopyComplete
+C:\Users\KARAMAN-LMS\source\repos\CBL-208-2020\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciDersKaydi.resources
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\OgrIsler.exe.config
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\OgrIsler.exe
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\OgrIsler.pdb
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csprojAssemblyReference.cache
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.AnaEkran.resources
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.KullaniciGiris.resources
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciDersKaydi.resources
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciDuzenle.resources
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciEkle.resources
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciListesi.resources
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.Properties.Resources.resources
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csproj.GenerateResource.cache
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csproj.CoreCompileInputs.cache
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.exe
+C:\Users\KARAMAN-LMS\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.pdb
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\OgrIsler.exe.config
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\OgrIsler.exe
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\OgrIsler.pdb
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csprojAssemblyReference.cache
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.AnaEkran.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.KullaniciGiris.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciDersKaydi.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciDuzenle.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciEkle.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciListesi.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.Properties.Resources.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csproj.GenerateResource.cache
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csproj.CoreCompileInputs.cache
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.exe
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.pdb
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.BolumListele.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.BlmDuzenle.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.csproj.CopyComplete
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.ProgramDuzenle.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.DanismanDersKaydi.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrenciNotGir.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.Ogrenci_DanismanDegistircs.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.BolumlereKayitliDanismanlar.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.ÖgrenciDersSilmeİslemleri.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.OgrencilerinAldiklariDersListesi.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\EnvDTE.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\stdole.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.Ogr_rapordanisman.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\RdlCompile.cache
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\RdlCompile.compiled
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.Ogr_Transkript.resources
+C:\Users\Mert Böğüş\Desktop\Öğrenci İşleri\OgrIsler\obj\Debug\OgrIsler.Rapor_BolumlereKayıtlıProgram.resources
