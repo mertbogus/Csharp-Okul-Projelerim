@@ -1,0 +1,27 @@
+C:\Users\bjk_m\source\repos\Ekran Koruyucu\Ekran Koruyucu\bin\Debug\Ekran Koruyucu.exe.config
+C:\Users\bjk_m\source\repos\Ekran Koruyucu\Ekran Koruyucu\bin\Debug\Ekran Koruyucu.exe
+C:\Users\bjk_m\source\repos\Ekran Koruyucu\Ekran Koruyucu\bin\Debug\Ekran Koruyucu.pdb
+C:\Users\bjk_m\source\repos\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.csprojAssemblyReference.cache
+C:\Users\bjk_m\source\repos\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran_Koruyucu.Form1.resources
+C:\Users\bjk_m\source\repos\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran_Koruyucu.Properties.Resources.resources
+C:\Users\bjk_m\source\repos\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.csproj.GenerateResource.cache
+C:\Users\bjk_m\source\repos\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.exe
+C:\Users\bjk_m\source\repos\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.pdb
+C:\Users\bjk_m\Desktop\Ekran Koruyucu\Ekran Koruyucu\bin\Debug\Ekran Koruyucu.exe.config
+C:\Users\bjk_m\Desktop\Ekran Koruyucu\Ekran Koruyucu\bin\Debug\Ekran Koruyucu.exe
+C:\Users\bjk_m\Desktop\Ekran Koruyucu\Ekran Koruyucu\bin\Debug\Ekran Koruyucu.pdb
+C:\Users\bjk_m\Desktop\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.csprojAssemblyReference.cache
+C:\Users\bjk_m\Desktop\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran_Koruyucu.Form1.resources
+C:\Users\bjk_m\Desktop\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran_Koruyucu.Properties.Resources.resources
+C:\Users\bjk_m\Desktop\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.csproj.GenerateResource.cache
+C:\Users\bjk_m\Desktop\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.exe
+C:\Users\bjk_m\Desktop\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.pdb
+C:\Users\bjk_m\Desktop\Projelerim\Ekran Koruyucu\Ekran Koruyucu\bin\Debug\Ekran Koruyucu.exe.config
+C:\Users\bjk_m\Desktop\Projelerim\Ekran Koruyucu\Ekran Koruyucu\bin\Debug\Ekran Koruyucu.exe
+C:\Users\bjk_m\Desktop\Projelerim\Ekran Koruyucu\Ekran Koruyucu\bin\Debug\Ekran Koruyucu.pdb
+C:\Users\bjk_m\Desktop\Projelerim\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.csprojAssemblyReference.cache
+C:\Users\bjk_m\Desktop\Projelerim\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran_Koruyucu.Form1.resources
+C:\Users\bjk_m\Desktop\Projelerim\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran_Koruyucu.Properties.Resources.resources
+C:\Users\bjk_m\Desktop\Projelerim\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.csproj.GenerateResource.cache
+C:\Users\bjk_m\Desktop\Projelerim\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.exe
+C:\Users\bjk_m\Desktop\Projelerim\Ekran Koruyucu\Ekran Koruyucu\obj\Debug\Ekran Koruyucu.pdb

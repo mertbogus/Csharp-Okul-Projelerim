@@ -1,0 +1,46 @@
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.exe.config
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.exe
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.pdb
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csprojResolveAssemblyReference.cache
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Form1.resources
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Form2.resources
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Hakkinda.resources
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Properties.Resources.resources
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csproj.GenerateResource.Cache
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csproj.CoreCompileInputs.cache
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.exe
+D:\VS Projects\Not Defteri Ödevi\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.pdb
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Form1.resources
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Form2.resources
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Hakkinda.resources
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Properties.Resources.resources
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.exe
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.pdb
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.exe.config
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.exe
+C:\Users\PC\Desktop\Desktop\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.pdb
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.exe.config
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.exe
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.pdb
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csprojAssemblyReference.cache
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Form1.resources
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Form2.resources
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Hakkinda.resources
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Properties.Resources.resources
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csproj.GenerateResource.cache
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.exe
+C:\Users\bjk_m\Desktop\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.pdb
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.exe.config
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.exe
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\bin\Debug\Not Defteri Ödevi.pdb
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csprojAssemblyReference.cache
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Form1.resources
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Form2.resources
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Hakkinda.resources
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\obj\Debug\Not_Defteri_Ödevi.Properties.Resources.resources
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.csproj.GenerateResource.cache
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.exe
+C:\Users\bjk_m\Desktop\Projelerim\Desktop\Not Defteri Ödevi\obj\Debug\Not Defteri Ödevi.pdb

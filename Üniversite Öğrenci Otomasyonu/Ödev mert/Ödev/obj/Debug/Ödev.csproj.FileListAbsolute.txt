@@ -1,0 +1,20 @@
+D:\VS Projects\Ödev\Ödev\bin\Debug\Ödev.exe.config
+D:\VS Projects\Ödev\Ödev\bin\Debug\Ödev.exe
+D:\VS Projects\Ödev\Ödev\bin\Debug\Ödev.pdb
+D:\VS Projects\Ödev\Ödev\obj\Debug\Ödev.csprojResolveAssemblyReference.cache
+D:\VS Projects\Ödev\Ödev\obj\Debug\Ödev.Form1.resources
+D:\VS Projects\Ödev\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+D:\VS Projects\Ödev\Ödev\obj\Debug\Ödev.csproj.GenerateResource.Cache
+D:\VS Projects\Ödev\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+D:\VS Projects\Ödev\Ödev\obj\Debug\Ödev.exe
+D:\VS Projects\Ödev\Ödev\obj\Debug\Ödev.pdb
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\obj\Debug\Ödev.csprojAssemblyReference.cache
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\obj\Debug\Ödev.Form1.resources
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\obj\Debug\Ödev.Properties.Resources.resources
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\obj\Debug\Ödev.csproj.GenerateResource.cache
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\obj\Debug\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\obj\Debug\Ödev.exe
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\obj\Debug\Ödev.pdb
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\bin\Debug\Ödev.exe.config
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\bin\Debug\Ödev.exe
+C:\Users\Mert Böğüş\Desktop\Mert\Ödev mert\Ödev\bin\Debug\Ödev.pdb

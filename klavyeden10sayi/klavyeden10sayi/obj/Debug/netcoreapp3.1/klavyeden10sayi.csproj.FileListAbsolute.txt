@@ -1,0 +1,26 @@
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.csprojAssemblyReference.cache
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.AssemblyInfo.cs
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.exe
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.deps.json
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.runtimeconfig.json
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.dll
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.pdb
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.dll
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.pdb
+C:\Users\hasan\source\repos\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.genruntimeconfig.cache
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.exe
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.deps.json
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.runtimeconfig.json
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.runtimeconfig.dev.json
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.dll
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\bin\Debug\netcoreapp3.1\klavyeden10sayi.pdb
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.csprojAssemblyReference.cache
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.AssemblyInfoInputs.cache
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.AssemblyInfo.cs
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.csproj.CoreCompileInputs.cache
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.dll
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.pdb
+C:\Users\Mert Böğüş\Desktop\klavyeden10sayi\klavyeden10sayi\obj\Debug\netcoreapp3.1\klavyeden10sayi.genruntimeconfig.cache

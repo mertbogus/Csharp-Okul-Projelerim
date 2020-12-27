@@ -1,0 +1,26 @@
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.exe
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.deps.json
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.runtimeconfig.json
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.dll
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.pdb
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.csprojAssemblyReference.cache
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.AssemblyInfo.cs
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.dll
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.pdb
+C:\Users\hasan\source\repos\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.genruntimeconfig.cache
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.exe
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.deps.json
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.runtimeconfig.json
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.runtimeconfig.dev.json
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.dll
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\bin\Debug\netcoreapp3.1\TakimMenüsü.pdb
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.csprojAssemblyReference.cache
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.AssemblyInfoInputs.cache
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.AssemblyInfo.cs
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.csproj.CoreCompileInputs.cache
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.dll
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.pdb
+C:\Users\Mert Böğüş\Desktop\TakimMenüsü\TakimMenüsü\obj\Debug\netcoreapp3.1\TakimMenüsü.genruntimeconfig.cache
